@@ -1,0 +1,17 @@
+.DS_Store
+
+# Xcode user-local state.
+xcuserdata/
+*.xcuserstate
+
+# Python local state.
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+*.egg-info/
+.env.local
+
+# Generated Life Report outputs.
+outputs/*
+!outputs/.gitkeep
